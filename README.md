@@ -19,7 +19,7 @@ This will allow user to make todo list, edit and delete that list
 
 1. go to the backend directory by run this command
    ```bash
-   cd trainne_frontend
+   cd trainee_frontend
 
 2. Install and run the app using 
     ```bash
