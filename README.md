@@ -15,7 +15,7 @@ This will allow user to make todo list, edit and delete that list
 
 1. Clone the repo:
    ```bash
-   
+   git clone https://github.com/bhavin-simform/trainee_frontend.git
 
 1. go to the backend directory by run this command
    ```bash
