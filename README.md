@@ -26,3 +26,8 @@ This will allow user to make todo list, edit and delete that list
     npm start
 
 3. Frontend application will start/run in this URL http://localhost:3000
+
+4. If you want it to run in the production environment then run the command:
+   ```bash
+   npm run build
+   ```
